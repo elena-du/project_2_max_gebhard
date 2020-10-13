@@ -1,5 +1,4 @@
-# project_2_max_gebhard
-Project 2 for Max Gebhard
+# Evolution of Competitiveness in Olympic Weightlifting
 
 Evolution of Competitiveness in Olympic Weightlifting
 
