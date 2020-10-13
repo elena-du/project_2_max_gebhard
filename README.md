@@ -1,7 +1,5 @@
 # Evolution of Competitiveness in Olympic Weightlifting
 
-Evolution of Competitiveness in Olympic Weightlifting
-
 The idea behind this project was to see if there was some general upward trend in competitiveness within major world competitions for olympic weightlifting. It was assumed that, given the steady increase in global prosperity, and the popularity of the sport on the world stage, in particular at the olympics, that there would be a general increase in athlete ability. 
 
 To test this, I scraped the competition data from the IWF site for all world championships and olympic games of the past 20 years. I filtered out any non-medalists from the competitions, and organized the medalists in terms of Body weight, weight lifted, age, and year of competition.
