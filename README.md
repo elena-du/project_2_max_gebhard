@@ -10,13 +10,13 @@ With that said, i did not manage to assess the scaling of these trends very well
 
 Tools used included:
 
-Numpy
-Pandas
-BeautifulSoup
-seaborn
-statsmodels
-matplotlib
-mpl_toolkits
-sklearn
-scipy
+Numpy,
+Pandas,
+BeautifulSoup,
+seaborn,
+statsmodels,
+matplotlib,
+mpl_toolkits,
+sklearn,
+scipy,
 plotly
